@@ -1,1 +1,3 @@
 /target
+/siem_agent/target/*
+/.vscode/*
